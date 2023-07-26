@@ -40,7 +40,6 @@
     grid-template-columns: repeat(7, 90px);
     gap: 10px;
     max-width: 690px;
-
 }
 
 .techs__list-item {
